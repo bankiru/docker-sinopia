@@ -4,7 +4,6 @@
 [![Docker Pulls](https://img.shields.io/docker/pulls/bankiru/sinopia.svg?style=flat-square)](https://hub.docker.com/r/bankiru/sinopia/)
 [![Docker Stars](https://img.shields.io/docker/stars/bankiru/sinopia.svg?style=flat-square)](https://hub.docker.com/r/bankiru/sinopia/)
 [![](https://images.microbadger.com/badges/image/bankiru/sinopia.svg)](https://hub.docker.com/r/bankiru/sinopia/)
-[![](https://badge.imagelayers.io/bankiru/sinopia:latest.svg)](https://imagelayers.io/?images=bankiru/sinopia:latest 'Get your own badge on imagelayers.io')
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/bankiru/docker-sinopia.svg)](http://isitmaintained.com/project/bankiru/docker-sinopia "Average time to resolve an issue")
 [![Percentage of issues still open](http://isitmaintained.com/badge/open/bankiru/docker-sinopia.svg)](http://isitmaintained.com/project/bankiru/docker-sinopia "Percentage of issues still open")
 [![License MIT](https://img.shields.io/:license-mit-blue.svg?style=flat-square)]()
